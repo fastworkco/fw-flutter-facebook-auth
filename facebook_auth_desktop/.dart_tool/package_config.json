@@ -117,9 +117,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/artynut/.pub-cache/hosted/pub.dev/http-1.0.0",
+      "rootUri": "file:///Users/artynut/.pub-cache/hosted/pub.dev/http-0.13.6",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.19"
     },
     {
       "name": "http_parser",
@@ -281,10 +281,10 @@
       "name": "facebook_auth_desktop",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-11-01T11:50:40.942545Z",
+  "generated": "2023-11-01T12:33:11.554505Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }

@@ -67,9 +67,9 @@ flutter_secure_storage_windows
 file:///Users/artynut/.pub-cache/hosted/pub.dev/flutter_secure_storage_windows-3.0.0/
 file:///Users/artynut/.pub-cache/hosted/pub.dev/flutter_secure_storage_windows-3.0.0/lib/
 http
-3.0
-file:///Users/artynut/.pub-cache/hosted/pub.dev/http-1.0.0/
-file:///Users/artynut/.pub-cache/hosted/pub.dev/http-1.0.0/lib/
+2.19
+file:///Users/artynut/.pub-cache/hosted/pub.dev/http-0.13.6/
+file:///Users/artynut/.pub-cache/hosted/pub.dev/http-0.13.6/lib/
 http_parser
 2.12
 file:///Users/artynut/.pub-cache/hosted/pub.dev/http_parser-4.0.0/
@@ -187,7 +187,7 @@ flutter_web_plugins
 file:///Users/artynut/development/flutter/packages/flutter_web_plugins/
 file:///Users/artynut/development/flutter/packages/flutter_web_plugins/lib/
 facebook_auth_desktop
-3.0
+2.18
 file:///Users/artynut/work/fastwork/fw-flutter-facebook-auth/facebook_auth_desktop/
 file:///Users/artynut/work/fastwork/fw-flutter-facebook-auth/facebook_auth_desktop/lib/
 facebook_auth_desktop_example
