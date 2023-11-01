@@ -92,10 +92,11 @@ packages:
   facebook_auth_desktop:
     dependency: "direct main"
     description:
-      name: facebook_auth_desktop
-      sha256: "6df63a8882c2113fc76b5a09a26291bd2d6b2350593b53ace6c26ade5e090fee"
-      url: "https://pub.dev"
-    source: hosted
+      path: facebook_auth_desktop
+      ref: "7a2241c02c416678796c4e65c7a3a95b6a4a8c16"
+      resolved-ref: "7a2241c02c416678796c4e65c7a3a95b6a4a8c16"
+      url: "git@github.com:fastworkco/fw-flutter-facebook-auth.git"
+    source: git
     version: "1.0.1"
   fake_async:
     dependency: transitive
@@ -129,18 +130,20 @@ packages:
   flutter_facebook_auth_platform_interface:
     dependency: "direct main"
     description:
-      name: flutter_facebook_auth_platform_interface
-      sha256: "86630c4dbba1c20fba26ea9e59ad0d48f5ff59e7373cacd36f916160186f9ce9"
-      url: "https://pub.dev"
-    source: hosted
+      path: facebook_auth_platform_interface
+      ref: "6d6eba0499dd1ab6338abef6fe33aff1128ae454"
+      resolved-ref: "6d6eba0499dd1ab6338abef6fe33aff1128ae454"
+      url: "git@github.com:fastworkco/fw-flutter-facebook-auth.git"
+    source: git
     version: "5.0.0"
   flutter_facebook_auth_web:
     dependency: "direct main"
     description:
-      name: flutter_facebook_auth_web
-      sha256: "22dca8091409309ad85b9f430fbd8f57b686276979da5195e7e97587352567ce"
-      url: "https://pub.dev"
-    source: hosted
+      path: facebook_auth_web
+      ref: "7a2241c02c416678796c4e65c7a3a95b6a4a8c16"
+      resolved-ref: "7a2241c02c416678796c4e65c7a3a95b6a4a8c16"
+      url: "git@github.com:fastworkco/fw-flutter-facebook-auth.git"
+    source: git
     version: "5.0.0"
   flutter_secure_storage:
     dependency: transitive
@@ -220,10 +223,10 @@ packages:
     dependency: transitive
     description:
       name: http
-      sha256: "4c3f04bfb64d3efd508d06b41b825542f08122d30bda4933fb95c069d22a4fa3"
+      sha256: "5895291c13fa8a3bd82e76d5627f69e0d85ca6a30dcac95c4ea19a5d555879c2"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "0.13.6"
   http_multi_server:
     dependency: transitive
     description:
