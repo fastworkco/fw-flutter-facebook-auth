@@ -1,3 +1,7 @@
+flutter_facebook_auth_platform_interface
+2.18
+file:///Users/artynut/.pub-cache/git/fw-flutter-facebook-auth-6d6eba0499dd1ab6338abef6fe33aff1128ae454/facebook_auth_platform_interface/
+file:///Users/artynut/.pub-cache/git/fw-flutter-facebook-auth-6d6eba0499dd1ab6338abef6fe33aff1128ae454/facebook_auth_platform_interface/lib/
 async
 2.18
 file:///Users/artynut/.pub-cache/hosted/pub.dev/async-2.11.0/
@@ -34,10 +38,6 @@ ffi
 3.0
 file:///Users/artynut/.pub-cache/hosted/pub.dev/ffi-2.1.0/
 file:///Users/artynut/.pub-cache/hosted/pub.dev/ffi-2.1.0/lib/
-flutter_facebook_auth_platform_interface
-3.0
-file:///Users/artynut/.pub-cache/hosted/pub.dev/flutter_facebook_auth_platform_interface-5.0.0/
-file:///Users/artynut/.pub-cache/hosted/pub.dev/flutter_facebook_auth_platform_interface-5.0.0/lib/
 flutter_lints
 2.12
 file:///Users/artynut/.pub-cache/hosted/pub.dev/flutter_lints-1.0.4/

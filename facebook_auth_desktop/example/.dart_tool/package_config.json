@@ -69,9 +69,9 @@
     },
     {
       "name": "flutter_facebook_auth_platform_interface",
-      "rootUri": "file:///Users/artynut/.pub-cache/hosted/pub.dev/flutter_facebook_auth_platform_interface-5.0.0",
+      "rootUri": "file:///Users/artynut/.pub-cache/git/fw-flutter-facebook-auth-6d6eba0499dd1ab6338abef6fe33aff1128ae454/facebook_auth_platform_interface",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.18"
     },
     {
       "name": "flutter_lints",
@@ -296,7 +296,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2023-11-01T11:47:06.489111Z",
+  "generated": "2023-11-01T11:50:40.998088Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }
